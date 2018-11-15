@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Learn Realm</string>
+    <string name="nim">NIM</string>
+    <string name="name">Nama</string>
+    <string name="renew">Perbarui</string>
+    <string name="delete">Hapus</string>
+    <string name="back">Kembali</string>
+
+    <string name="insert_nim">Masukkan NIM</string>
+    <string name="insert_name">Masukkan Nama</string>
+    <string name="save">Simpan</string>
+    <string name="view">Lihat Mahasiswa</string>
+</resources>
